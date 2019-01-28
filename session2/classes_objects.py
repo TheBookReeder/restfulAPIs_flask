@@ -39,6 +39,6 @@ class Student:
     def go_to_school2():
         print("I'm going to school")
 
-anna = Students("Anna", "MIT")
+anna = Student("Anna", "MIT")
 anna.marks.append(56)
 anna.marks.append(71)
